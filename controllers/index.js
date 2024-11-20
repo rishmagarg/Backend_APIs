@@ -8,7 +8,7 @@ let employees = [
   },
   {
     employeeId: 2,
-    name: 'Arsh Deep',
+    name: 'Priya Singh',
     email: 'priya.singh@example.com',
     departmentId: 2,
     roleId: 2,
